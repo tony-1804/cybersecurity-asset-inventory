@@ -230,4 +230,4 @@ and data persistence are documented in
 
 ## Author
 
-Weekly Mini Project 01 — B.E. Computer Science and Engineering (Cybersecurity)
+Tonijey Benhar T — B.E. Computer Science and Engineering (Cybersecurity)
